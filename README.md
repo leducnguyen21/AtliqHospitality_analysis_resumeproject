@@ -1,7 +1,15 @@
+I have participate in Codebasics Resume Project Challenge for building Data project Portfolio. This challenge give me a great chance to develop my Data Analysis skills. I have try my best to complete the challenge. Hope to receive some feedbacks for my improvement process.
+
+For your information, Codebasics is a Youtube channel covering many topics, including Programming, Data Science, Data Analytics, Artificial Intelligence, Machine Learning, Data Structures, Software Srchitecture, etc.
+Project Github Link: https://github.com/leducnguyen21/AtliqHospitality_analysis_resumeproject
+Code Basics Challenge Link: https://lnkd.in/g9NfRWvq
+Code Basics Youtube Channel: https://lnkd.in/gbEh6tnb
+
 # AtliqHospitality_analysis_resumeproject
 This is a Codebasics resume project for Challenge #1 : Provide Insights to Revenue Team in Hospitality Domain
 
-Domain:  Hospitality       Function: Revenue
+*Domain:  Hospitality       
+*Function: Revenue
 
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
 
@@ -14,3 +22,15 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 1. Create the metrics according to the metric list.
 2. Create a dashboard according to the mock-up provided by stakeholders.
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+# Things I have learnd from the challenge:
+1. Clean data and connect data sets 
+2. Creating measures and calculated columns (to create other metrics)
+3. Finding insights after EDA process
+4. Usage of slicers to narrow down the requirements.
+5. Building Menu bar for several sheets in Power BI
+6. Choose specific color for the dashboard to improve visualisation
+
+Once again, thank you Dhaval Patel and Hemanand Vadivel for coming up with this kind of challenges that helps students and professionals who are looking forward to step into the analytics career
+
+#codebasicsresumeprojectchallenge #powerbi #dashboard #dataanalysis #codebasics #dataanalytics #data #career #hospitality 
