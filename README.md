@@ -1,6 +1,6 @@
-I have participate in Codebasics Resume Project Challenge for building Data project Portfolio. This challenge give me a great chance to develop my Data Analysis skills. I have try my best to complete the challenge. Hope to receive some feedbacks for my improvement process.
+I have participate in Codebasics Resume Project Challenge for building Data project Portfolio. This challenge give me a great chance to develop my Data Analysis skills. I have tried my best to complete the challenge. Hope to receive some feedbacks for my improvement process so that I could do better for further project in the future.
 
-For your information, Codebasics is a Youtube channel covering many topics, including Programming, Data Science, Data Analytics, Artificial Intelligence, Machine Learning, Data Structures, Software Srchitecture, etc.
+For your information, Codebasics is a Youtube channel covering many topics, including Programming, Data Science, Data Analytics, Artificial Intelligence, Machine Learning, Data Structures, Software Srchitecture, etc. I am so lucky to be a subsriber and learn many things in Data field.
 
 Project Github Link: https://github.com/leducnguyen21/AtliqHospitality_analysis_resumeproject
 
@@ -33,6 +33,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 5. Building Menu bar for several sheets in Power BI
 6. Choose specific color for the dashboard to improve visualisation
 
-Once again, thank you Dhaval Patel and Hemanand Vadivel for coming up with this kind of challenges that helps students and professionals who are looking forward to step into the analytics career
+Once again, thank you Dhaval Patel and Hemanand Vadivel for establishing this kind of challenges that helps people who are looking forward to step into the analytics career
 
-#codebasicsresumeprojectchallenge #powerbi #dashboard #dataanalysis #codebasics #dataanalytics #data #career #hospitality 
+#codebasicsresumeprojectchallenge #powerbi #dashboard #dataanalysis #codebasics #dataanalytics #data #hospitality 
