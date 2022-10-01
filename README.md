@@ -1,9 +1,12 @@
 I have participate in Codebasics Resume Project Challenge for building Data project Portfolio. This challenge give me a great chance to develop my Data Analysis skills. I have try my best to complete the challenge. Hope to receive some feedbacks for my improvement process.
 
 For your information, Codebasics is a Youtube channel covering many topics, including Programming, Data Science, Data Analytics, Artificial Intelligence, Machine Learning, Data Structures, Software Srchitecture, etc.
+
 Project Github Link: https://github.com/leducnguyen21/AtliqHospitality_analysis_resumeproject
-Code Basics Challenge Link: https://lnkd.in/g9NfRWvq
-Code Basics Youtube Channel: https://lnkd.in/gbEh6tnb
+
+Code Basics Challenge Link: https://codebasics.io/event/codebasics-resume-project-challenge
+
+Code Basics Youtube Channel: https://www.youtube.com/c/codebasics/featured
 
 # AtliqHospitality_analysis_resumeproject
 This is a Codebasics resume project for Challenge #1 : Provide Insights to Revenue Team in Hospitality Domain
