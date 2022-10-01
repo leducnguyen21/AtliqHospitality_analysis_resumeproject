@@ -36,3 +36,5 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 Once again, thank you Dhaval Patel and Hemanand Vadivel for establishing this kind of challenges that helps people who are looking forward to step into the analytics career
 
 #codebasicsresumeprojectchallenge #powerbi #dashboard #dataanalysis #codebasics #dataanalytics #data #hospitality 
+
+![dashboard](https://user-images.githubusercontent.com/104529166/193417033-a243378a-ad4b-4d54-aa47-56f6d4285fcb.png)
