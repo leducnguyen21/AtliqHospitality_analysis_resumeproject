@@ -25,7 +25,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 2. Create a dashboard according to the mock-up provided by stakeholders.
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-# Things I have learnd from the challenge:
+# Things I have learned from the challenge:
 1. Clean data and connect data sets 
 2. Creating measures and calculated columns (to create other metrics)
 3. Finding insights after EDA process
